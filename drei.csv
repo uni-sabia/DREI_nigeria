@@ -1,0 +1,24 @@
+Risk,Risk_Sub,Likelihood,Impact ,Rank,Rank_plot
+Social Acceptance,"Resistance by general public, local communities, competing businesses ",2.27,3.07,10,1
+Hardware,Quality of Hardware,3.27,3.87,5,6
+Hardware,Availability of Hardware,2.87,3.4,5,6
+Hardware,Customs,4.07,4.47,5,6
+Digital ,Cellular networks and mobile money,3.8,4.2,7,4
+Digital ,Software,3.27,3.33,7,4
+Digital ,Abuse of consumer data,3.07,3.47,7,4
+Labour,Lack of competitive labour market ,3.8,4.2,9,2
+Energy Market,Market Outlook,3.2,4.2,8,3
+Energy Market,"Market Access, Competition and Grid Expansion",3.33,3.6,8,3
+Energy Market,Tariffs,2.68,3.67,8,3
+Energy Market,Technical Standards,2.73,3.07,8,3
+Energy Market,Competition Subsidies,3.53,3.67,8,3
+Developer,Management Capability,3.53,3.73,4,7
+Developer,"Developer credit worthiness, cash flow strength",4.2,4.47,4,7
+End user credit,Lack of information on end-user credit worthiness,4.07,4.2,3,8
+End user credit,Poor credit worthiness and non-payment,4.07,4.53,3,8
+Financing,Liquidity constraints in domestic banking,4.47,4.6,2,9
+Financing,Underdeveloped domestic financial sector,3.73,3.93,2,9
+Financing,Competing incentives and mandates,3.8,4.27,2,9
+Financing,Domestic investor's limited experience,3.73,4.33,2,9
+Currency ,Volatility,4.67,4.67,1,10
+Sovereign Risk,Limitations and uncertainty,4,4.47,6,5
